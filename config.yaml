@@ -1,0 +1,9 @@
+path: ../data
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: toolbox
+  1: fire_extinguisher
+  2: oxygen_tank
